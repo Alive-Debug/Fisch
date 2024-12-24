@@ -1,0 +1,2 @@
+# Fisch
+Fisch minimalist script
